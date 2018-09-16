@@ -1,0 +1,6 @@
+framework module Pods_3wt {
+  umbrella header "Pods-3wt-umbrella.h"
+
+  export *
+  module * { export * }
+}
